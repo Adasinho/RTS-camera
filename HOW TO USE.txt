@@ -1,0 +1,4 @@
+W,A,s,D - keys to move
+Q,E - keys to rotate camera
+C - change camera
+N - on/off night time
